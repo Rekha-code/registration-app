@@ -1,0 +1,32 @@
+.container {
+  margin-top: 8%;
+  width: 500px;
+  border: ridge 1.5px white;
+  padding: 20px;
+  border-radius: 6px;
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+
+h2 {
+  color: aliceblue;
+  text-align: center;
+}
+
+label {
+  color: aliceblue;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.btn-reset {
+  margin-top: 15px;
+  margin-left: 7px;
+  color: white;
+}
+
+.tab {
+  /* width: auto; */
+  border-radius: 50px;
+}
